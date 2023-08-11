@@ -1,5 +1,6 @@
-# Licença Pública de Marca
-Repositório para preservar o conteúdo da **Licença Pública de Marca**, do Portal *SoftwarePublico.gov.br*
+# Licença Pública de Marca - Mapas
+
+Repositório para registrar sob a **Licença Pública de Marca**, a marca do **Produto Mapas**, que é um fork do **Mapas Culturais**.
 
 (conteúdo original disponível em: https://softwarepublico.gov.br/social/spb/publicacoes/licenca-publica-de-marca)
 
